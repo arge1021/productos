@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Mouse Logitech",
+    "price": 2700,
+    "thumbnail": "https://www.paranahardware.com.ar/1600-thickbox_default/logitech-g305-mouse-inalambrico.jpg",
+    "id": 1
+  },
+  {
+    "title": "Monitor Samsung",
+    "price": 36000,
+    "thumbnail": "https://images.samsung.com/is/image/samsung/ar-27-essental-curved-monitor-with-the-deeply-immersive-viewing-experience-lc27f390fhlxzb-frontblack-71145747?$720_576_PNG$",
+    "id": 3
+  },
+  {
+    "title": "Mouse Logitech",
+    "price": 2700,
+    "thumbnail": "https://www.paranahardware.com.ar/1600-thickbox_default/logitech-g305-mouse-inalambrico.jpg",
+    "id": 4
+  },
+  {
+    "title": "Teclado Seisa",
+    "price": 5500,
+    "thumbnail": "https://uraniocenter.com/public/img/products/prd_wc5f765e35d75c4.png",
+    "id": 5
+  },
+  {
+    "title": "Monitor Samsung",
+    "price": 36000,
+    "thumbnail": "https://images.samsung.com/is/image/samsung/ar-27-essental-curved-monitor-with-the-deeply-immersive-viewing-experience-lc27f390fhlxzb-frontblack-71145747?$720_576_PNG$",
+    "id": 6
+  }
+]
